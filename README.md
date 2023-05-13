@@ -1,0 +1,2 @@
+# studybot
+GPT for students.
